@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <settings default="cxplain">
+    <module2copyright>
+      <element module="All" copyright="cxplain" />
+    </module2copyright>
+  </settings>
+</component>
