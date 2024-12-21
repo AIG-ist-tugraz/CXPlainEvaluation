@@ -1,0 +1,11 @@
+# Configurations for SCONFGenerator
+# fqa.sxfm
+nameKB = "fqa.sxfm"
+kbPath = "./data/fms/"
+confPath = "./data/confs/fqa/"
+
+# V2
+sizeSCONFs = [4, 8]
+maxCombinations = 10000
+
+outputFolder = "./data/sconfs/fqa/"

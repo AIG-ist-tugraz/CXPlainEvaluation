@@ -1,0 +1,14 @@
+jplug true
+interface true
+gui_builder false
+model_code_synch false
+compiler false
+diagram_builder false
+sdi true
+mdi false
+java false
+qt false
+javac false
+mvc false
+uml false
+petri_net false

@@ -1,0 +1,11 @@
+# Configurations for SCONFGenerator
+# REAL-FM-7.splx
+nameKB = "REAL-FM-7.splx"
+kbPath = "./data/fms/"
+confPath = "./data/confs/REAL-FM-7/"
+
+# V2
+sizeSCONFs = [1, 2, 4, 8]
+maxCombinations = 10000
+
+outputFolder = "./data/sconfs/REAL-FM-7/"

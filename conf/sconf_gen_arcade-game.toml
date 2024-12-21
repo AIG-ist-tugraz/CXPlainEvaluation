@@ -1,0 +1,11 @@
+# Configurations for SCONFGenerator
+# arcade-game.splx
+nameKB = "arcade-game.splx"
+kbPath = "./data/fms/"
+confPath = "./data/confs/arcade-game/"
+
+# V2
+sizeSCONFs = [1, 2, 4, 8]
+maxCombinations = 10000
+
+outputFolder = "./data/sconfs/arcade-game/"

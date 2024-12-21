@@ -1,0 +1,11 @@
+# Configurations for SCONFGenerator
+# windows8.sxfm
+nameKB = "windows8.sxfm"
+kbPath = "./data/fms/"
+confPath = "./data/confs/windows8/"
+
+# V2
+sizeSCONFs = [4, 8]
+maxCombinations = 10000
+
+outputFolder = "./data/sconfs/windows8/"

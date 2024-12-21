@@ -1,0 +1,14 @@
+# Configurations for CXPlain Evaluation
+# 50% of the features are selected for configuration generation
+fullnameKBs = ["REAL-FM-7.splx", "arcade-game.splx", "fqa.sxfm", "ubuntu.sxfm", "windows8.sxfm"]
+kbPath = "./data/fms/"
+confPath = "./data/confs/"
+sconfPath = "./data/sconfs/"
+
+# V2
+numConfs = 3
+sizeSCONFs = [1, 2, 4, 8]
+
+outputFolder = "./data/results/"
+
+printResult = true
