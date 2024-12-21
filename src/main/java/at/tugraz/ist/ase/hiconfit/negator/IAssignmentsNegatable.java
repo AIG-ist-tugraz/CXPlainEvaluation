@@ -3,7 +3,7 @@
  *
  * Copyright (c) 2022-2024
  *
- * @author: Viet-Man Le (vietman.le@ist.tugraz.at)
+ * @author: Viet-Man Le (v.m.le@tugraz.at)
  */
 
 package at.tugraz.ist.ase.hiconfit.negator;
@@ -15,9 +15,6 @@ import org.chocosolver.solver.constraints.Constraint;
 
 import java.util.List;
 
-/**
- * TODO: Migrate to hiconfit-core
- */
 public interface IAssignmentsNegatable {
 
     /**

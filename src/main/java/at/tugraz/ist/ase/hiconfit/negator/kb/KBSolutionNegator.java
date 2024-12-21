@@ -3,7 +3,7 @@
  *
  * Copyright (c) 2024
  *
- * @author: Viet-Man Le (vietman.le@ist.tugraz.at)
+ * @author: Viet-Man Le (v.m.le@tugraz.at)
  */
 
 package at.tugraz.ist.ase.hiconfit.negator.kb;
@@ -23,9 +23,6 @@ import java.util.List;
 
 import static com.google.common.base.Preconditions.checkArgument;
 
-/**
- * TODO: Migrate to hiconfit-core
- */
 @Slf4j
 public class KBSolutionNegator implements ISolutionNegatable {
 

@@ -3,7 +3,7 @@
  *
  * Copyright (c) 2022-2024
  *
- * @author: Viet-Man Le (vietman.le@ist.tugraz.at)
+ * @author: Viet-Man Le (v.m.le@tugraz.at)
  */
 
 package at.tugraz.ist.ase.hiconfit.negator.kb;
@@ -23,7 +23,6 @@ import java.util.List;
 
 /**
  * DON'T remove the translated constraints from the Choco model
- * TODO: Migrate to hiconfit-core
  */
 public class KBAssignmentsNegator implements IAssignmentsNegatable {
 

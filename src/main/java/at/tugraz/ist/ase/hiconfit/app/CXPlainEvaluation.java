@@ -3,7 +3,7 @@
  *
  * Copyright (c) 2024
  *
- * @author: Viet-Man Le (vietman.le@ist.tugraz.at)
+ * @author: Viet-Man Le (v.m.le@tugraz.at)
  */
 
 package at.tugraz.ist.ase.hiconfit.app;
@@ -93,7 +93,6 @@ public class CXPlainEvaluation {
         // warm up
         evaluate(cfg, null);
 
-        // TODO - Migrate to hiconfit-core
         Dictionary<String, Dictionary<String, Dictionary<String, Double>>> results = evaluate(cfg, resultWriter);
 
         List<String> namKBs = cfg.getFullnameKBs().reversed();

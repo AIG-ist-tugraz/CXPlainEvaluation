@@ -1,3 +1,11 @@
+#
+# Causality-based Explanation for Feature Model Configuration
+#
+# Copyright (c) 2024
+#
+# @author: Viet-Man Le (v.m.le@tugraz.at)
+#
+
 echo "SCONF Generation"
 echo ""
 
